@@ -21,24 +21,3 @@ print(json_obj)
 		#print (item['"name"'])
 	#else:
 		#print (None)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
